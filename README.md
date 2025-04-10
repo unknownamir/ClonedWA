@@ -37,20 +37,20 @@ No installation is required for this web application. Simply access the WeatherS
 
 # License
 
-SkyAura is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+This app is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
 
-# Acknowledgements
+# Acknowledgement
 
 1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
 2. I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
 
 # Contact
 
-If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - astechnical112@gmail.com
+If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me.
 or create an issue on the GitHub repository.
 
 # Final Thoughts
 
-I hope you find the SkyAura useful for checking weather conditions in your area or any city you're interested in. 
+I hope you find the this App useful for checking weather conditions in your area or any city you're interested in. 
 Enjoy using the app and stay informed about the weather!
 
