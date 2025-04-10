@@ -1,9 +1,8 @@
-# SKYAURA: Current Weather and City-based Forecast
+#Weather Sense: Current Weather and City-based Forecast
 
-Into Sky Aura
 Real-Time Weather | City-Based Forecasts
 
-Into Sky Aurora is your sleek companion for real-time weather updates—right from your current location or any city you choose.
+This App is your sleek companion for real-time weather updates—right from your current location or any city you choose.
 Get instant insights on temperature, wind speed, humidity, and cloud cover—all at a glance.
 
 Whether you’re planning your day, a weekend escape, or just love tracking the skies, Into Sky Aurora keeps you effortlessly informed.
@@ -26,7 +25,7 @@ Elegant iOS-inspired UI
 
 # How to Use
 
-1. Open the SkyAura Forecast website in your web browser from the link - (https://unknownamir.github.io/WeatherApp/))
+1. Open the Weather Sense Forecast website in your web browser from the link - (https://unknownamir.github.io/WeatherApp/))
 2. Grant permission for the app to access your location when prompted.
 3. The app will display the current weather information for your area.
 4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
