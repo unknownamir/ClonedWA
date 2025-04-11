@@ -25,7 +25,7 @@ Elegant iOS-inspired UI
 
 # How to Use
 
-1. Open the Weather Sense Forecast website in your web browser from the link - (https://unknownamir.github.io/ClonedWA/))
+1. Open the Weather Sense Forecast website in your web browser from the link - (https://shoaibxbwf.github.io/ClonedWA/)
 2. Grant permission for the app to access your location when prompted.
 3. The app will display the current weather information for your area.
 4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
@@ -43,6 +43,10 @@ This app is created by me , which means you are free to use, modify, and distrib
 
 1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
 2. I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
+
+CLONED BY
+Anant - (https://github.com/Anantagg/Weather-App)
+web app link - (https://anantagg.github.io/Weather-App/)
 
 # Contact
 
